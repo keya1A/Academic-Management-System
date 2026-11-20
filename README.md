@@ -112,17 +112,7 @@ Through this project, I learned how PHP interacts with MySQL databases and how a
 - Connecting frontend interfaces with backend functionality.
 - Understanding real-world academic management workflows.
 
-## 👩‍💻 Developer
 
-**Keya Saha**
-
-Diploma in Computer Science & Technology (CST)
-
-Frontend Developer & Cybersecurity Enthusiast
-
----
-
-⭐ If you find this project interesting, feel free to explore the repository!
 
 
 
